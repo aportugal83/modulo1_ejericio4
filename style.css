@@ -24,19 +24,16 @@ body{
 
 }
 
-/*
-.container{
-    display: flex;
-    flex-direction: row;
-}
-*/
-
 .mediano-azul_margin-derecho{
     float: right;
     background-color: black;
     width: 48%;
     height: 250px;
-    margin: 0px 10px 10px 10px;
+    margin: 0px 10px 10px 150px;
+    border-color: blueviolet;
+    border-style: dotted;
+    border-width: 10px;
+
 }
 
 .mediano-azul{
